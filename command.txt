@@ -1,0 +1,7 @@
+git clone (url)
+
+git status
+
+git add .
+git commit -m"index file created"
+git push origin main
