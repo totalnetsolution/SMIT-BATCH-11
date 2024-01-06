@@ -1,7 +1,0 @@
-git clone (https://github.com/totalnetsolution/SMIT-BATCH-11)
-
-git status
-
-git add .
-git commit -m"index file created"
-git push origin main
